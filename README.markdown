@@ -1,3 +1,17 @@
+
+Annotator Java Client
+--------
+A implementation of an 'Annotator' Java client
+
+To use: 
+* > cd javaClient  
+* > mvn tomcat:run
+
+This should raise a tomcat instance, which you can explore at: 
+http://localhost:8080/annotator
+
+This client uses Spring MVC
+
 Annotator
 =========
 
